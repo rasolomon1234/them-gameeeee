@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 0; 
+    background-image: url("aPicture.jpg")
+  }
+  
+  .button1{
+      position: absolute;
+      left: 650px;
+      top: 360px;
+      font-size: 25px;
+      background-color: red;
+      color: white;
+      border-radius: 35px;
+      text-align: center;
+  }
